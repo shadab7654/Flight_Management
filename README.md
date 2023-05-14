@@ -99,13 +99,7 @@ DevRev-Air is an airline management web application consisting of flight & seat 
     <img width="475" alt="Capture" src="https://user-images.githubusercontent.com/60184336/211132190-a3b70553-7c55-4f0b-8b34-1c45595081e1.PNG">
   
   ### 3. Project Installation & Setup  
-   - Clone or Download this repository.
-   ```
-   git clone https://github.com/arijit69-web/DevRev-Air.git
-   ```
-   - Open Command Prompt and change the folder to DevRev AirLine Management System
-   - After changing the directory write a command to install node_modules and dependencies.
-   ```
+     ```
    npm install
    ```
    - After installing all the dependencies create a file 'config.env' and inside that file add the following :
